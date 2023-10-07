@@ -1,2 +1,2 @@
 # Calculadora-java
-Calculadora feita em java.
+Calculadora feita em java, criada com intuito voltado para estudos.
